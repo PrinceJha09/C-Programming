@@ -1,0 +1,8 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/princekumarjha/Desktop/C Programming/RECURSIONS/output/1toNrec_parameter'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _increase, symObjAddr: 0x0, symBinAddr: 0x100003EB0, symSize: 0x6C }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _increase, symObjAddr: 0x0, symBinAddr: 0x100003EB0, symSize: 0x6C }
+  - { offsetInCU: 0x73, offset: 0x73, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x6C, symBinAddr: 0x100003F1C, symSize: 0x58 }
+...

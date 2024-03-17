@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/princekumarjha/Desktop/C Programming/STRUCTURES/output/structurevariable'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _fun, symObjAddr: 0x0, symBinAddr: 0x100003E78, symSize: 0x3C }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _fun, symObjAddr: 0x0, symBinAddr: 0x100003E78, symSize: 0x3C }
+  - { offsetInCU: 0x66, offset: 0x66, size: 0x8, addend: 0x0, symName: _change, symObjAddr: 0x3C, symBinAddr: 0x100003EB4, symSize: 0x1C }
+  - { offsetInCU: 0x8B, offset: 0x8B, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x58, symBinAddr: 0x100003ED0, symSize: 0xB4 }
+...

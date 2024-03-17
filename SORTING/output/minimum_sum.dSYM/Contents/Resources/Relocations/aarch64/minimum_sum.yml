@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/princekumarjha/Desktop/C Programming/SORTING/output/minimum_sum'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _secSmall, symObjAddr: 0x0, symBinAddr: 0x100003C08, symSize: 0x94 }
+  - { offsetInCU: 0x3F, offset: 0x3F, size: 0x8, addend: 0x0, symName: _arr, symObjAddr: 0x378, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x69, offset: 0x69, size: 0x8, addend: 0x0, symName: _secSmall, symObjAddr: 0x0, symBinAddr: 0x100003C08, symSize: 0x94 }
+  - { offsetInCU: 0xA9, offset: 0xA9, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x94, symBinAddr: 0x100003C9C, symSize: 0x2E4 }
+...
